@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Abdulkadir Sarıtepe.
-I am Senior Year Student and studying Mechanical Engineering Major in Middle East Technical University.
-I also work on Mechatronics Department of Tubitak Sage as a part-time engineer.
+I am Abdulkadir Sarıtepe. <br />
+I am Senior Year Student and studying Mechanical Engineering Major in Middle East Technical University. <br />
+I also work on Mechatronics Department of Tubitak Sage as a part-time engineer. <br />
 
 <!--
 **abdulkadirsaritepe/abdulkadirsaritepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
