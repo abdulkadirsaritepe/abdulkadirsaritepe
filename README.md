@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am Abdulkadir Sarıtepe. <br />
-I am Senior Year Student and studying Mechanical Engineering Major in Middle East Technical University. <br />
-I also work on Mechatronics Department of Tubitak Sage as a part-time engineer. <br />
+I am Mechanical Engineer, and working on Mechatronics Department of Tubitak Sage as Mechatronics and Control Engineer. <br />
+I have graduated from Mechanical Engineering at Middle East Technical University. <br />
+I am pursuing Masters Degree about Rehabilation Robotics in Mechanical Engineering at Middle East Technical University. <br />
+🔭 I’m currently working on Modeling and Control of Hand Exoskeleton. I'm interested in Python and ROS, and fluent in MATLAB/Simulink.
 
 <!--
 **abdulkadirsaritepe/abdulkadirsaritepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
